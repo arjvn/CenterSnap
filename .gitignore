@@ -1,0 +1,10 @@
+env
+wandb
+nocs_test_subset
+**.ply
+**.pth
+__pycache__
+**.png
+**.gif
+**zstd
+**.py
